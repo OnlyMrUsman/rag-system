@@ -1,0 +1,7 @@
+Retrieval-Augmented Generation (RAG) combines information retrieval with language generation.
+
+A RAG system first retrieves relevant documents from an external knowledge base. The retrieved context is then provided to a language model to generate a grounded response.
+
+BGE-M3 is a multilingual embedding model that can represent text as dense vectors. These vectors can be stored in a vector database such as Qdrant for semantic similarity search.
+
+Qdrant is a vector database optimized for storing and searching high-dimensional embeddings.
